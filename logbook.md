@@ -24,3 +24,7 @@
 
 **Reflektioner**
 - Laravel och blade ser riktigt intressant ut men kommer hålla mig till vad jag vet, vilket då blir vanilla. 
+
+## 2025-04-10
+- har researchat mySQLworkbench och laddat ner 
+- kommit igång med mysql databas och docker.
